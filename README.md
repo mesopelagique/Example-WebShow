@@ -19,10 +19,10 @@ kaluza install --no-bin
 
 ## WebServers?
 
-`WEB Server list` method return web server present in memory. So if a server from a component is not available immediately. 
+`WEB Server list` method return web servers present in memory. So a server from a component is not available immediately. 
 
-There is two way
+There is two way to get those components web servers
 - first your current database (the host) accept to send event (see security panel) and the components implement `On Host Database Event` to create the web server
-- or you call methods from component to start or get the server
+- or you call methods from components to start or get the server
 
 I use the second one in [WebServerList](Documentations/Methods/WebServerList.md)
