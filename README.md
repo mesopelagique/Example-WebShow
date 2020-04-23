@@ -2,7 +2,7 @@
 
 Display thumbnail and link of web servers provided by components
 
-![preview](Documentations/preview.png)
+![preview](Documentation/preview.png)
 
 ## Components
 
