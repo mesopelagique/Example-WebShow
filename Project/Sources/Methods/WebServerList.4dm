@@ -9,8 +9,9 @@ If ($servers.length=1)
 	$components:=New collection:C1472()
 	ARRAY TO COLLECTION:C1563($components;$tTxt_components)
 	
+	C_OBJECT:C1216($🎣)
 	$🎣:=try ()
-	$method:=Method called on error:C704
+	C_TEXT:C284($component)
 	For each ($component;$components)
 		EXECUTE METHOD:C1007($component+"WebServer")
 	End for each 
