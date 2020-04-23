@@ -1,0 +1,9 @@
+[submodule "Components/JSONToCode.4dbase"]
+	path = Components/JSONToCode.4dbase
+	url = https://github.com/mesopelagique/JSONToCode.git
+[submodule "Components/Mesopotamia.4dbase"]
+	path = Components/Mesopotamia.4dbase
+	url = https://github.com/mesopelagique/Mesopotamia.git
+[submodule "Components/Mark4Down.4dbase"]
+	path = Components/Mark4Down.4dbase
+	url = https://github.com/mesopelagique/Mark4Down.git

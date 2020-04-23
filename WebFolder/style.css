@@ -1,0 +1,32 @@
+body {
+    background: linear-gradient(to top, #4e4c4c, #9a9a9a);
+    text-align: center;
+}
+a.fav {
+    background: #e0e0e0;
+    display:inline-block;
+    width: 340;
+    height:280;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding-top: 10px;
+    margin:8px;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    box-shadow: 10px 10px 5px rgb(65, 64, 64);
+}
+a.fav:hover {
+    background: #f3f3f3;
+    border-width:1px;
+}
+a.fav img {
+    border: 1px solid #909090;
+}	
+
+img {
+    width: 320;
+    height:200;
+    border:0;
+}

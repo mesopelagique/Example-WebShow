@@ -1,0 +1,9 @@
+{
+  "dependencies" : [
+    "mesopelagique\/JSONToCode",
+    "mesopelagique\/Mesopotamia",
+    "mesopelagique\/Mark4Down"
+  ],
+  "description" : "Show web components",
+  "name" : "Example-WebShow"
+}

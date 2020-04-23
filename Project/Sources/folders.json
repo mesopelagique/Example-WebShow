@@ -1,0 +1,28 @@
+﻿{
+	"(Default Classes)": {},
+	"(Default Folder)": {
+		"groups": [
+			"(Default Classes)",
+			"(Default Forms)",
+			"(Default Project Methods)",
+			"(Default Tables)"
+		]
+	},
+	"(Default Forms)": {},
+	"(Default Project Methods)": {},
+	"(Default Tables)": {},
+	"try": {
+		"methods": [
+			"ignoreError",
+			"try"
+		],
+		"classes": [
+			"Try"
+		]
+	},
+	"trash": {
+		"groups": [
+			"(Default Folder)"
+		]
+	}
+}
