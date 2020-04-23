@@ -21,4 +21,4 @@ So for each components, we try to execute the method
 EXECUTE METHOD($componentName+"WebServer")
 ```
 
-the we could get the full list with `WEB Server list`
+then we could get the full list with `WEB Server list`
