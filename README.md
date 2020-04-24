@@ -4,6 +4,10 @@ Display thumbnail and link of web servers provided by components
 
 ![preview](Documentation/preview.png)
 
+## Usage
+
+Just open the browser (test web server menu item or type this component url in browser [http://localhost:8080](https://github.com/mesopelagique/Example-WebShow/blob/master/Project/Sources/settings.4DSettings))
+
 ## Components
 
 The components are added using git submodule
