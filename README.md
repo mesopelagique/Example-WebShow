@@ -21,6 +21,14 @@ kaluza add mesopelagique/Mark4Down
 kaluza install --no-bin
 ```
 
+or
+
+```bash
+kaluza install mesopelagique/JSONToCode --no-bin
+kaluza install mesopelagique/Mesopotamia --no-bin
+kaluza install mesopelagique/Mark4Down --no-bin
+```
+
 ## WebServers?
 
 `WEB Server list` method return web servers present in memory. So a server from a component is not available immediately. 
